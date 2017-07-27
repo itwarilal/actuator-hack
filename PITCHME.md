@@ -6,6 +6,7 @@
 ## What problem are you solving?
 
 - Smart Fire/Smoke alarm with better user experience and improve esthetics
+  - Can also be extended to CO detectors 
 
 ---
 
@@ -15,6 +16,7 @@
 - Competitive differentiator in our market segment
 - $1.5 million market for residential smoke detectors in 2016 (1)
   - Residential Smart Smoke Detectors Market to Grow at a CAGR of 39%, 2017-2021 (2) 
+  - CO detectors market is about same size and it also follow same CAGR growth expectations
 
 ---
 

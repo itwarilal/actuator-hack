@@ -14,7 +14,7 @@
 - Value add perception for user with relatively low cost for us
 - Competitive differentiator in our market segment
 - $1.5 million market for residential smoke detectors in 2016 (1)
--- Residential Smart Smoke Detectors Market to Grow at a CAGR of 39%, 2017-2021 (2) 
+  - Residential Smart Smoke Detectors Market to Grow at a CAGR of 39%, 2017-2021 (2) 
 
 ---
 
@@ -27,8 +27,8 @@
 ---
 
 ## References
-(1) (Nest's Marketing Plan|https://www.slideshare.net/AdamKoch1/nest-protect-marketing-plan)
-(2) (Fire Engineering Market Research|http://www.fireengineering.com/pt/2017/04/06/global-residential-smart-smoke-detectors-market-to-grow-at-a-cagr-of-39-2017-2021-with-birdi-brk-bra.html) 
+(1) [Nest's Marketing Plan](https://www.slideshare.net/AdamKoch1/nest-protect-marketing-plan)
+(2) [Fire Engineering Market Research](http://www.fireengineering.com/pt/2017/04/06/global-residential-smart-smoke-detectors-market-to-grow-at-a-cagr-of-39-2017-2021-with-birdi-brk-bra.html) 
 
 ---
 

@@ -23,8 +23,8 @@
 ## What does it matter to Users?
 
 - Reduce clutter by removing need for yet another device
-- Better user experience when vying for Smoke/Fire Alarm
-- Value add and differentiator when vying for smart speakers
+- Better user experience value proposition for people who may be buying Smoke/Fire Alarm
+- Value add and differentiator for people who may be buying  smart speakers
 
 ---
 
